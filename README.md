@@ -16,6 +16,9 @@
 
 源码比csdn：https://download.csdn.net/download/ahuyangdong/9945499 版本更新了：文件路径适配新方法、添加读写权限申请代码（可选）。
 
+## 相关
+改进版项目，支持库拷贝，接入更加方便，见：https://github.com/ahuyangdong/QrCodeLib
+
 ## 致谢
 
 - ZXing
